@@ -1,0 +1,22 @@
+## Outline
+
+- data journalism history
+  - 1858: the birth of infography (diagram of causes of mortality in the army in the east)
+  - 1952: journalists started using computers to predict elections
+- what is developing in the newsroom
+  - it is not working on the infrastructure behind the newsroom
+  - it means making the news with code
+      - data visualization
+      - analysis
+      - interaction design
+  - which kind of tools
+- it could be a career for you (we need more you in how we tell the story of how the world is)
+- why
+  - journalism shape how we view the world
+  - open source
+  - exciting and interesting projects
+  - wide open space right now
+  - people use what you do
+  - open for experimentation
+- my history in journalism
+- the future of journalism
